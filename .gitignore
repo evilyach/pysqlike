@@ -1,0 +1,3 @@
+*.cpython*
+.env
+.vscode
